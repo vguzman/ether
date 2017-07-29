@@ -1,0 +1,1105 @@
+[Sat Jul 29 00:39:41.778329 2017] [:error] [pid 8052] [client 192.168.133.1:51730] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 17
+[Sat Jul 29 00:43:12.807409 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:15.128283 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:17.279504 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:19.520136 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:21.716108 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:23.883514 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:26.491408 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:28.451937 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:30.291747 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:43:32.024952 2017] [:error] [pid 8052] [client 192.168.133.1:51773] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:14.384074 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:16.367994 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:19.028500 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:21.546386 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:24.003962 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:26.374538 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:28.748771 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:30.707672 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:45:32.576226 2017] [:error] [pid 8051] [client 192.168.133.1:51800] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 24
+[Sat Jul 29 00:48:11.832282 2017] [:error] [pid 8704] [client 192.168.133.1:51841] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 32
+[Sat Jul 29 00:48:13.815182 2017] [:error] [pid 8704] [client 192.168.133.1:51841] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 32
+[Sat Jul 29 00:51:48.803411 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.808330 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.813347 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.818439 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.823383 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.828336 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.833405 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.838369 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.842882 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.847879 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.852399 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.856880 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.861385 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.866414 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.871419 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.876392 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.881408 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.886428 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.891418 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:51:48.896415 2017] [:error] [pid 8051] [client 192.168.133.1:51931] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.561167 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.566122 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.570403 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.575148 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.579643 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.584159 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.589183 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.594164 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.599179 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.604259 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.609171 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.614174 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.619244 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.624185 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.629205 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.634193 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.639320 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.644195 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.649229 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:19.654352 2017] [:error] [pid 8052] [client 192.168.133.1:51942] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.594329 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.599215 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.604218 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.609245 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.614216 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.619195 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.624246 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.629227 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.634216 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.639210 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.644260 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.649230 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.654261 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.659251 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.664281 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.669234 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.674250 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.678645 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.683262 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 00:52:30.687756 2017] [:error] [pid 8049] [client 192.168.133.1:51945] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 33
+[Sat Jul 29 01:08:42.566463 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566520 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566530 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566537 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566542 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566548 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566554 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566567 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566574 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566580 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566586 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566591 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566609 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566614 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566619 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566626 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566632 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566648 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566654 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566658 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566664 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566668 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566673 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566680 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566686 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566691 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566695 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566700 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566705 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566710 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566715 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566721 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566727 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566732 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566736 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566864 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566872 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566877 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566882 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566889 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566894 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566899 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566904 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566909 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566913 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566918 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566924 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566930 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566935 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566940 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566945 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566950 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566955 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566961 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566965 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566972 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566977 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566985 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566991 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.566995 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567001 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567006 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567011 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567019 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567025 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567030 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567035 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567039 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567044 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567051 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567056 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567167 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567173 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567178 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567183 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567188 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567192 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567199 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567204 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567209 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567217 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567222 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567227 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567232 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567237 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567249 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567254 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567259 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567264 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567270 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567275 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567280 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567285 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567291 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567296 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567301 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567306 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567311 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567316 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:42.567321 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:45.447958 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:48.013179 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:50.400881 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:52.765150 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:55.048933 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:57.564518 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:08:59.740351 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:09:02.426911 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:09:04.810877 2017] [:error] [pid 8052] [client 192.168.133.1:52167] PHP Warning:  Creating default object from empty value in /home/vitor/ether/index.php on line 51
+[Sat Jul 29 01:23:18.706239 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:18.706274 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:23.369329 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:23.369413 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:25.024304 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:25.024344 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:26.383657 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:26.383716 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:27.775573 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:27.775659 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:28.994535 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:28.994597 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:30.491114 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:30.491176 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:31.714560 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:31.715905 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:32.862223 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:32.862269 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:34.185713 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:34.185795 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:35.440766 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:35.440821 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:36.115280 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:36.115338 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:37.023995 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:37.024042 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:37.908915 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:37.909071 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:38.810022 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:38.810065 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:39.610073 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:39.610113 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:40.282071 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:40.282169 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:43.168046 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:43.168105 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:44.311258 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:44.311303 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:46.069298 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:46.069343 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:47.744357 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:47.744410 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:48.940560 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:48.940629 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:50.377457 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:50.377499 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:52.348964 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:52.349154 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:53.649916 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:53.649975 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:54.776497 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:54.776569 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:56.008076 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:56.008268 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:56.822206 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:56.822242 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:57.784829 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:57.784870 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:58.575477 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:58.575526 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:59.322300 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:59.322345 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:23:59.858160 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:23:59.858206 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:00.646450 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:00.646504 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:01.526705 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:01.526785 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:02.618212 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:02.618253 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:03.498299 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:03.498344 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:04.290573 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:04.290624 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:04.979749 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:04.979803 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:05.798355 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:05.798410 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:06.654243 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:06.654315 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:07.446483 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:07.446535 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:08.134977 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:08.135020 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:09.178239 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:09.178291 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:10.043175 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:10.043219 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:10.930758 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:10.930792 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:11.558276 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:11.558331 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:12.454385 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:12.454428 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:13.326163 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:13.326215 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:14.031095 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:14.031139 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:14.863948 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:14.863992 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:15.394699 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:15.394743 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:16.018422 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:16.018525 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:16.838468 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:16.838516 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:17.602726 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:17.603397 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:18.050239 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:18.050293 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:18.746405 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:18.746454 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:19.503554 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:19.503596 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:20.447705 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:20.447747 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:21.339283 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:21.339336 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:22.327297 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:22.327340 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:23.390846 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:23.390919 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:24.373598 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:24.373652 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:25.175800 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:25.175860 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:25.938603 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:25.938656 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:26.930555 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:26.930611 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:28.115198 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:28.115390 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:28.954688 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:28.954736 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:29.860491 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:29.860579 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:30.606149 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:30.606188 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:31.282782 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:31.282835 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:32.095737 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:32.095792 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:32.758382 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:32.758421 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:33.450703 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:33.450754 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:34.388930 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:34.390239 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:35.338766 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:35.338809 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:36.142477 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:36.142522 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:36.934288 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:36.934322 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:37.946445 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:37.946494 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:38.830445 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:38.830491 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:39.442779 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:39.444058 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:40.195605 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:40.195659 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:40.887126 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:40.887169 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:42.173434 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:42.173472 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:43.395175 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:43.395217 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:44.768878 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:44.826985 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:46.191904 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:46.191950 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:47.605326 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:47.605407 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:48.872800 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:48.872848 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:50.029683 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:50.029734 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:51.137861 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:51.137897 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:52.212456 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:52.212496 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:53.076970 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:53.077010 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:53.924100 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:53.924147 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:54.614363 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:54.614405 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:55.376006 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:55.377235 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:56.110441 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:56.110482 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:56.979868 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:56.979903 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:57.743265 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:57.743326 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:58.617142 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:58.617199 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:24:59.458878 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:24:59.458924 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:00.139095 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:00.139158 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:00.993395 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:00.993432 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:01.786320 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:01.786362 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:02.619289 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:02.619353 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:03.526520 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:03.526579 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:04.182086 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:04.182130 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:04.986546 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:04.986588 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:05.631159 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:05.631240 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:06.354598 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:06.354643 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:07.063242 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:07.063303 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:07.560575 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:07.560612 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:08.182048 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:08.182121 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:08.966679 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:08.966725 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:10.323095 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:10.323171 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:11.186764 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:11.186797 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:11.930546 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:11.930579 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:12.676197 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:12.676257 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:13.322579 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:13.322641 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:13.930687 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:13.930738 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:14.559113 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:14.559156 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:15.409203 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:15.409257 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:16.280945 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:16.281034 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:17.096491 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:17.096536 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:17.928085 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:17.928178 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:18.775582 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:18.775666 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:19.722574 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:19.722621 2017] [:error] [pid 8052] [client 192.168.133.1:52370] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:37.422860 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:37.422934 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:38.682937 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:38.682981 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:39.734659 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:39.734706 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:40.855040 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:40.855117 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:42.277847 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:42.277892 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:43.980698 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:43.980736 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:45.381202 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:45.381247 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:46.614756 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:46.614830 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:47.709393 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:47.709435 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:49.144048 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:49.144105 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:50.201446 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:50.201492 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:51.160254 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:51.160294 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:52.022907 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:52.022953 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:52.813320 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:52.813386 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:53.538828 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:53.538882 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:54.327068 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:54.327126 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:55.170776 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:55.170819 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:56.223362 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:56.223416 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:57.298871 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:57.298920 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:58.207447 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:58.207494 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:25:59.094756 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:25:59.094808 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:00.043777 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:00.043822 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:01.200329 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:01.200386 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:02.387744 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:02.387799 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:03.227269 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:03.227314 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:03.940448 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:03.940484 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:04.591791 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:04.593533 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:05.409531 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:05.409592 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:06.264224 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:06.264282 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:07.166816 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:07.166862 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:08.066837 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:08.066886 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:08.761066 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:08.761101 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:09.797947 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:09.798899 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:10.875543 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:10.875596 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:11.794867 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:11.794922 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:12.558830 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:12.558880 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:13.311473 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:13.311660 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:13.875187 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:13.875224 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:14.550942 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:14.550987 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:15.162969 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:15.163013 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:15.906947 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:15.906991 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:16.654814 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:16.656679 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:17.602826 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:17.602876 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:18.407497 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:18.407541 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:19.159350 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:19.159394 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:19.977089 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:19.977128 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:20.706910 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:20.706954 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:21.279085 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:21.279139 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:21.994250 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:21.994296 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:22.864353 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:22.864446 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:23.642978 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:23.643021 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:24.398924 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:24.398971 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:25.110798 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:25.110849 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:25.779334 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:25.779403 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:26.579870 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:26.579932 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:27.235811 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:27.235906 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:27.883275 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:27.883309 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:28.307549 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:28.307603 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:28.787141 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:28.787175 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:29.438190 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:29.438249 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:30.087614 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:30.087695 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:30.647559 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:30.647604 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:31.060163 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:31.060217 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:31.663083 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:31.663125 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:32.106873 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:32.108581 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:32.611705 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:32.611777 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:33.048331 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:33.048392 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:33.530365 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:33.530445 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:34.012728 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:34.012773 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:34.904837 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:34.904876 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:35.703291 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:35.703347 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:36.571806 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:36.571941 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:37.359666 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:37.360937 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:38.175166 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:38.175209 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:38.779834 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:38.779880 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:39.326961 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:39.327020 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:39.990922 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:39.990957 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:40.622940 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:40.622981 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:41.128073 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:41.128180 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:41.829342 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:41.829382 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:42.842313 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:42.843454 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:43.500783 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:43.500821 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:44.311813 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:44.311865 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:45.228271 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:45.228311 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:46.582529 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:46.582566 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:47.872728 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:47.873946 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:49.037677 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:49.037714 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:50.030584 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:50.030637 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:50.859046 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:50.859078 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:51.412080 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:51.412210 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:51.967049 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:51.967083 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:52.732330 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:52.732378 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:53.413616 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:53.413661 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:54.111093 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:54.111140 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:54.851004 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:54.851055 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:55.718854 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:55.718896 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:56.803046 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:56.803248 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:57.834889 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:57.834944 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:58.851759 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:58.851805 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:26:59.727829 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:26:59.727887 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:00.679437 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:00.679496 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:01.663102 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:01.663149 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:02.371175 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:02.371226 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:03.035072 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:03.035134 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:03.787026 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:03.787084 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:04.703683 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:04.703742 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:05.331445 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:05.331520 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:05.839669 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:05.839705 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:06.507912 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:06.507967 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:07.219067 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:07.219115 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:08.007231 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:08.007288 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:08.767192 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:08.767230 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:09.387983 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:09.388027 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:10.921274 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:10.921331 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:11.657800 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:11.657875 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:12.355534 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:12.355657 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:13.039015 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:13.039058 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:13.703599 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:13.703634 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:14.371114 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:14.371165 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:14.981482 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:14.981522 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:15.747771 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:15.747814 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:16.491662 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:16.492804 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:17.300601 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:17.300650 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:18.110978 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:18.111019 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:18.711063 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:18.711104 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:19.297436 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:19.297495 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:19.856017 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:19.856052 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:20.518551 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:20.518597 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:21.202721 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:21.202820 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:22.091026 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:22.091074 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:22.801232 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:22.801273 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:23.502625 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:23.502666 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:24.191655 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:24.191709 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:24.939352 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:24.939389 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:25.627251 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:25.627309 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:26.323373 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:26.323431 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:27.111466 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:27.112265 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:28.037832 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:28.037911 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:28.924171 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:28.924239 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:29.579265 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:29.579314 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:30.447786 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:30.447832 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:31.183482 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:31.183533 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:32.063391 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:32.063443 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:33.130777 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:33.131075 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:33.959725 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:33.959766 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:35.043864 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:35.043920 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:35.834521 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:35.834569 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:36.577054 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:36.577101 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:37.352434 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:37.353704 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:38.862888 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:38.863009 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:40.045934 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:40.045993 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:41.068695 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:41.068747 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:42.197148 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:42.197198 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:43.321956 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:43.322009 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:44.559889 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:44.559930 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:45.746975 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:45.747024 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:46.875772 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:46.875828 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:47.567682 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:47.567733 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:48.254680 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:48.255047 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:49.031176 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:49.031235 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:49.803396 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:49.803440 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:50.743419 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:50.743458 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:51.663203 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:51.663251 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:52.391203 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:52.391250 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:53.497292 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:53.497398 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:54.435132 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:54.435177 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:55.251115 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:55.251184 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:56.213361 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:56.213409 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:57.279550 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:57.279602 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:58.071384 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:58.071422 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:27:59.057495 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:27:59.057550 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:00.084168 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:00.084211 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:00.923521 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:00.923568 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:01.579338 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:01.579393 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:02.091610 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:02.091664 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:02.715246 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:02.715287 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:03.499366 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:03.499437 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:04.296163 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:04.296228 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:04.920629 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:04.920675 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:05.683612 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:05.683668 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:06.661605 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:06.661675 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:07.673484 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:07.673525 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:08.703381 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:08.703425 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:09.637133 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:09.637185 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:10.603199 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:10.603787 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:11.482942 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:11.483017 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:12.291362 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:12.291406 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:13.019879 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:13.019921 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:13.583245 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:13.583287 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:14.230237 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:14.230306 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:14.771049 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:14.771085 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:15.246979 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:15.247027 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:15.913288 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:15.913888 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:16.543318 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:16.543373 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:17.283321 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:17.283364 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:18.251990 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:18.252049 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:18.911344 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:18.911379 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:19.503198 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:19.503241 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:20.227609 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:20.227658 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:21.043719 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:21.043785 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:21.655536 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:21.655577 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:22.343341 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:22.343388 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:23.099432 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:23.099478 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:23.766828 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:23.766873 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:24.540474 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:24.540527 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:25.227778 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:25.227900 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:25.938522 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:25.938563 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:26.727465 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:26.727506 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:27.508274 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:27.508317 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:28.363613 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:28.363661 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:29.347970 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:29.348019 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:30.316064 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:30.316111 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:31.171333 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:31.171402 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:31.963285 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:31.963329 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:32.655270 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:32.655319 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 01:28:33.539343 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 11
+[Sat Jul 29 01:28:33.539382 2017] [:error] [pid 15854] [client 192.168.133.1:52521] PHP Notice:  Undefined variable: e in /home/vitor/ether/index.php on line 13
+[Sat Jul 29 02:06:34.835905 2017] [:error] [pid 17147] [client 192.168.133.1:53490] PHP Fatal error:  Call to undefined function operacionSQL() in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.245479 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.246352 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.247035 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.247500 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.247720 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.247897 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248011 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248115 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248215 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248315 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248415 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248512 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248609 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248742 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248839 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.248935 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249032 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249137 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249235 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249332 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249426 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249521 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249627 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249752 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249854 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.249948 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250044 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250139 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250235 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250329 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250422 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250515 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250608 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250799 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.250906 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251002 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251097 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251191 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251287 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251381 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251479 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251573 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251690 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251789 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251889 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.251983 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252076 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252182 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252277 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252373 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252467 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252568 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252691 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252830 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.252927 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253022 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253115 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253208 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253302 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253395 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253488 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253582 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253704 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253801 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253896 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.253989 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254083 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254177 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254276 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254372 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254466 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254562 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.254877 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255008 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255114 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255238 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255343 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255443 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255612 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255731 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255830 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.255925 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256020 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256115 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256254 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256365 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256465 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256561 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256658 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256793 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256890 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.256985 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257082 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257193 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257292 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257387 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257482 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257576 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257748 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.257890 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.258023 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.258154 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.258402 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.258560 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.258742 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.259109 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.259281 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.259445 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.259684 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.259899 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260153 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260290 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260391 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260490 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260587 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260705 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260808 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.260905 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261001 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261109 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261235 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261344 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261442 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261549 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261644 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261761 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261856 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.261952 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262046 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262141 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262303 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262402 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262498 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262606 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262746 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.262892 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263049 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263248 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263403 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263512 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263614 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263731 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263829 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.263925 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264020 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264115 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264228 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264324 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264429 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264525 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264619 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264744 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264849 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.264946 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265096 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265210 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265307 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265402 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265497 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265591 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265701 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265799 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265894 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.265990 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266085 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266280 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266396 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266492 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266588 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266709 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266807 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266903 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.266998 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267100 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267213 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267309 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267402 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267496 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267590 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267698 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267799 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267893 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.267987 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268082 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268186 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268288 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268391 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268487 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268581 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268689 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268825 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.268935 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269032 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269126 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269240 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269335 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269428 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269518 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269608 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269733 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269827 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.269916 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.270004 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.270099 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:08:17.270244 2017] [:error] [pid 17147] [client 192.168.133.1:53506] PHP Notice:  Undefined index: hash in /home/vitor/ether/index.php on line 117
+[Sat Jul 29 02:21:42.175217 2017] [:error] [pid 17160] [client 192.168.133.1:53723] PHP Notice:  Undefined variable: hash in /home/vitor/ether/index.php on line 56
+[Sat Jul 29 02:21:42.175262 2017] [:error] [pid 17160] [client 192.168.133.1:53723] PHP Notice:  Undefined variable: hash in /home/vitor/ether/index.php on line 59
+[Sat Jul 29 02:21:42.175998 2017] [:error] [pid 17160] [client 192.168.133.1:53723] PHP Notice:  Undefined variable: hash in /home/vitor/ether/index.php on line 62
+[Sat Jul 29 02:25:28.266681 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined variable: i in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:28.266745 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined index:  in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:28.266752 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:28.879628 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:28.879669 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:29.544616 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:29.544654 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:30.077602 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:30.077655 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:30.624830 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:30.624861 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:31.277821 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:31.277860 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:31.932574 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:31.932614 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:32.539219 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:32.540353 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:33.161574 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:33.161618 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:33.667166 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 02:25:33.667215 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
