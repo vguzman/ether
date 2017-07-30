@@ -6,7 +6,16 @@
 	if (isset($_GET['limit']))
 		$limit=$_GET['limit'];
 	else
-		$limit=100;
+		$limit=5;
+		
+		
+		
+	
+	if (isset($_GET['from']))
+		$from=$_GET['from'];
+	else
+		$from='from';
+		
 
 
 
@@ -37,12 +46,22 @@
 
 
 <div style="margin-top:30px; margin-bottom:20px;" align="center" class="Aller15Negro">
-
-      <form id="form1" name="form1" method="get" action="">
-        <label for="limit">Limit</label>
+<form id="form1" name="form1" method="get" action="">
+        
+    	  <label for="from"></label>
+    	  From - To 
+    	  <select name="from" id="from">
+    	    <option value="from">From</option>
+    	    <option value="to">To</option>
+        </select>
+/
+<label for="limit">Limit</label>
         <input name="limit" type="text" id="limit" size="4" value="<? echo $limit ?>" />
-        <input type="submit" name="button" id="button" value="Submit" />
-    </form>
+          <input type="submit" name="button" id="button" value="Submit" />
+    
+    
+    
+  </form>
 </div>    
  
  
@@ -58,7 +77,13 @@
         <td width="100"><strong>Txs recv</strong></td>
       </tr>
       <?
-	$query=$util->operacionSQL("SELECT COUNT(*) as c,A.`to` FROM Transaction A GROUP BY A.`to` ORDER BY c DESC LIMIT ".$limit);
+	  
+	  
+	  $api=new Api;
+	  
+	  
+	  
+	$query=$util->operacionSQL("SELECT COUNT(*) as c , A.`".$from."` as fr FROM Transaction A GROUP BY fr ORDER BY c DESC LIMIT ".$limit);
 
 
 	for ($i=0;$i<mysql_num_rows($query);$i++)
@@ -72,21 +97,24 @@
 		$query3=$util->operacionSQL("SELECT address FROM Account WHERE address='".$address."'");
 		if (mysql_num_rows($query3)==0)
 		{
-			$api=new Api;
 			$api->loadAccount($address);
+		}
+		else
+		{
+			/*$cuenta=new Account($address);
+		
+			$query_dif=$util->operacionSQL("SELECT TIMESTAMPDIFF(HOUR, '".$cuenta->last_update."' , NOW() ) ");
+			$horas=mysql_result($query_dif,0,0);
+			
+			
+			if ($horas>=6)*/
+				$api->loadAccount($address);
 		}
 		
 		
 		
 		
-		
-		$account=new Account($address);
-		
-		
-		
-		
-		
-		
+		$account=new Account($address);	
 		
 		
 		

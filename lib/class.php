@@ -195,91 +195,97 @@
 		
 		function loadAccount($address)
 		{
-			$url="https://etherchain.org/api/account/".$address;
+			$url="https://etherscan.io/address/".$address."/";
 			
 			
 			$handler = curl_init($url);  
 			curl_setopt($handler, CURLOPT_RETURNTRANSFER,true);
 			$response = curl_exec ($handler);  
 			curl_close($handler);  
-			$resp=json_decode($response);
-			
-			
-			$data=$resp->data;
-			$data=$data[0];
 			
 			
 			
-			if ( isset($data->address) )
+			//SACANDO NOMNBRE
+			$name='';
+			$aux=explode("title='NameTag'>",$response);
+			if (count($aux)>1)
 			{
-				$util=new Util;
-				
-				
-				
-				$fecha=str_replace("T"," ",$data->firstSeen);
-				$fecha=substr($fecha,0,20);	
-					
-					
-				$balance=number_format( ($data->balance/1000000000000000000) , 18 , '.' , '');
-				
-					
-					
-			
-				$query=$util->operacionSQL("SELECT address FROM Account WHERE address='".$address."'");
-				
-				
-				
-				$mined='null';
-				$txs='null';
-				
-				
-				
-				//SACANDO MINED
-				/*$handler = curl_init("https://etherchain.org/api/account/".$address."/mined");  
-				curl_setopt($handler, CURLOPT_RETURNTRANSFER,true);
-				$response = curl_exec ($handler);  
-				curl_close($handler);  
-				$resp_mined=json_decode($response);				
-				
-				$data_mined=$resp_mined->data;
-				$mined=count($data_mined);
-				
-				
-				
-				
-				
-				//SACANDO NRO DE TRANSACCIONES
-				$handler = curl_init("https://etherchain.org/api/account/".$address."/nonce");  
-				curl_setopt($handler, CURLOPT_RETURNTRANSFER,true);
-				$response = curl_exec ($handler);  
-				curl_close($handler);  
-				$resp_mined=json_decode($response);				
-				
-				$data_mined=$resp_mined->data;
-				$txs=$data_mined[0]->accountNonce;*/
-					
-				
-				
-				
-				
-				
-				
-				if (mysql_num_rows($query)==0)
-				{
-					$util->operacionSQL("INSERT INTO Account VALUES ('".$address."', '".$data->name."' , ".$balance." , '".$fecha."' ,".$mined.",".$mined.",'','NO', NOW() )");
-				}
-				
-				else
-				{
-					$util->operacionSQL("UPDATE Account SET name='".$data->name."' , balance=".$balance." , mined_blocks=".$mined." , txs=".$txs." , last_update=NOW()");
-				}
-				
-				
-				
-				
-				
-				
+				$name=$aux[1];
+				$aux=explode("<",$name);
+				$name=$aux[0];
 			}
+			
+			
+			
+			
+			
+			//SACANDO BALANCE
+			$aux=explode("<td>ETH Balance:",$response);
+			$aux=explode("<td>",$aux[1]);
+			$aux=explode("Ether",$aux[1]);
+			
+			$balance=trim($aux[0]);
+			$balance=str_replace("<b>.</b>",".",$balance);
+			$balance=str_replace(",","",$balance);
+			
+			
+			
+			
+			
+			//SACANDO BLOQUES MINADOS
+			$mined=0;
+			if (substr_count($response,"ETH mined")>0)
+			{
+				$aux=explode("ETH mined",$response);
+				$aux=explode(">",$aux[1]);
+				$aux=explode(" blocks",$aux[1]);
+				
+				
+				$mined=trim($aux[0]);
+			}
+			
+			
+			
+			
+			
+			//SACANDO TXS
+			$aux=explode("title='Normal Transactions'",$response);
+			$aux=explode(">",$aux[1]);
+			$aux=explode(" txn",$aux[1]);
+				
+				
+			$txs=trim($aux[0]);
+			
+			$util=new Util;
+			
+			
+			
+			$query=$util->operacionSQL("SELECT address FROM Account WHERE address='".$address."'");
+			
+			
+			if (mysql_num_rows($query)==0)
+			{
+				$util->operacionSQL("INSERT INTO Account VALUES ('".$address."', '".$name."' , ".$balance." , ".$mined.",".$mined.",'','NO', NOW() )");
+			}
+			else
+			{
+				
+				$util->operacionSQL("UPDATE Account SET name='".$name."' , balance=".$balance." , mined_blocks=".$mined." , txs=".$txs." , last_update=NOW() WHERE address='".$address."'");
+			}
+			
+			
+		
+
+
+			/*echo $name;
+			echo "<br />";
+			echo $balance;
+			echo "<br />";
+			echo $mined;
+			echo "<br />";
+			echo $txs;
+			echo "<br />";*/			
+			
 			
 			
 			
@@ -362,7 +368,6 @@
 		var $address;
 		var $name;
 		var $balance;
-		var $firstSeen;
 		var $txs;
 		var $mined_blocks;	
 		var $type;
@@ -384,12 +389,11 @@
 			{
 				$this->name=mysql_result($query,0,1);
 				$this->balance=mysql_result($query,0,2);
-				$this->firstSeen=mysql_result($query,0,3);
-				$this->txs=mysql_result($query,0,4);
-				$this->mined_blocks=mysql_result($query,0,5);
-				$this->type=mysql_result($query,0,6);
-				$this->follow=mysql_result($query,0,7);
-				$this->last_update=mysql_result($query,0,8);			
+				$this->txs=mysql_result($query,0,3);
+				$this->mined_blocks=mysql_result($query,0,4);
+				$this->type=mysql_result($query,0,5);
+				$this->follow=mysql_result($query,0,6);
+				$this->last_update=mysql_result($query,0,7);			
 			}
 			else
 				return 0;		
