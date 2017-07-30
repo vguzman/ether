@@ -80,13 +80,17 @@
 						{
 							
 							
-							$hash=$data[$i]->hash;						
+							$hash=$data[$i]->hash;	
+							
+							$content=array();
+							
+							$monto= (string) $data[$i]->amount;			
 							
 							
 							$content['time']=$data[$i]->time;
 							$content['from']=$data[$i]->sender;
 							$content['to']=$data[$i]->recipient;
-							$content['amount']=(string)$data[$i]->amount;
+							$content['amount']=$monto;
 							$content['block_hash']=$data[$i]->blockHash;
 							$content['parent_hash']=$data[$i]->parentHash;
 							
@@ -158,7 +162,7 @@
 				$fecha=substr($fecha,0,20);
 				
 				
-				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', '".(string) $valor['amount']."' ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , 0.00  )");
+				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', '".$monto."' ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , 1.00  )");
 				
 				
 				
