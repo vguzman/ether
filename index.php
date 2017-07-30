@@ -101,13 +101,13 @@
 		}
 		else
 		{
-			/*$cuenta=new Account($address);
+			$cuenta=new Account($address);
 		
 			$query_dif=$util->operacionSQL("SELECT TIMESTAMPDIFF(HOUR, '".$cuenta->last_update."' , NOW() ) ");
 			$horas=mysql_result($query_dif,0,0);
 			
 			
-			if ($horas>=6)*/
+			if ($horas>=6)
 				$api->loadAccount($address);
 		}
 		
