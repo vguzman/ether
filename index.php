@@ -99,6 +99,10 @@
 			
 		$query2=$util->operacionSQL("SELECT COUNT(*) FROM Transaction A WHERE A.`to`='".$address."'");
 		$cuenta_to=mysql_result($query2,0,0);
+		
+		
+		$query2=$util->operacionSQL("SELECT COUNT(*) FROM Transaction A WHERE A.`from`='".$address."'");
+		$cuenta_from=mysql_result($query2,0,0);
 			
 			
 			
