@@ -158,7 +158,7 @@
 				$fecha=substr($fecha,0,20);
 				
 				
-				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', ".$valor['amount']." ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , '".number_format( ($valor['amount']/1000000000000000000) , 18 )."'  )");
+				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', ".$valor['amount']." ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , ".number_format( ($valor['amount']/1000000000000000000) , 18 )."  )");
 				
 				
 				
