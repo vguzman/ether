@@ -162,7 +162,7 @@
 				$fecha=substr($fecha,0,20);
 				
 				
-				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', '".$monto."' ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , 1.00  )");
+				$util->operacionSQL("INSERT INTO Transaction VALUES ('".$clave."', '".$valor['from']."', '".$valor['to']."', '".$valor['amount']."' ,  '".$fecha."' , '".$valor['block_hash']."' , '".$valor['parent_hash']."' , 1.00  )");
 				
 				
 				
