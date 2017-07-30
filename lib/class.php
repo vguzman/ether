@@ -229,9 +229,13 @@
 				
 				
 				
+				$mined='null';
+				$txs='null';
+				
+				
 				
 				//SACANDO MINED
-				$handler = curl_init("https://etherchain.org/api/account/".$address."/mined");  
+				/*$handler = curl_init("https://etherchain.org/api/account/".$address."/mined");  
 				curl_setopt($handler, CURLOPT_RETURNTRANSFER,true);
 				$response = curl_exec ($handler);  
 				curl_close($handler);  
@@ -252,7 +256,7 @@
 				$resp_mined=json_decode($response);				
 				
 				$data_mined=$resp_mined->data;
-				$txs=$data_mined[0]->accountNonce;
+				$txs=$data_mined[0]->accountNonce;*/
 					
 				
 				
@@ -262,7 +266,7 @@
 				
 				if (mysql_num_rows($query)==0)
 				{
-					$util->operacionSQL("INSERT INTO Account VALUES ('".$address."', '".$data->name."' , ".$balance." , '".$fecha."' ,null,".$mined.",'','NO', NOW() )");
+					$util->operacionSQL("INSERT INTO Account VALUES ('".$address."', '".$data->name."' , ".$balance." , '".$fecha."' ,".$mined.",".$mined.",'','NO', NOW() )");
 				}
 				
 				else
