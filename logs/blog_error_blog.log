@@ -1103,3 +1103,4 @@
 [Sat Jul 29 02:25:33.161618 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
 [Sat Jul 29 02:25:33.667166 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Undefined offset: 100 in /home/vitor/ether/index.php on line 44
 [Sat Jul 29 02:25:33.667215 2017] [:error] [pid 17160] [client 192.168.133.1:53778] PHP Notice:  Trying to get property of non-object in /home/vitor/ether/index.php on line 44
+[Sat Jul 29 05:40:17.938873 2017] [:error] [pid 23593] [client 192.168.133.1:56336] script '/home/vitor/ether/pruebas.php' not found or unable to stat

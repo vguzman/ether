@@ -62,7 +62,7 @@
 					$content['parent_hash']=$data[$i]->parentHash;
 					
 					
-					if ($data[$i]->type=="tx")
+					if (($data[$i]->type=="tx")&&($data[$i]->amount>0))
 						if (isset($resul[$hash])==false)
 						{
 							
