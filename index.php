@@ -51,8 +51,8 @@
     	  <label for="from"></label>
     	  From - To 
     	  <select name="from" id="from">
-    	    <option value="from">From</option>
-    	    <option value="to">To</option>
+    	    <option value="from" <? if ($from=="from") echo 'selected="selected"' ?> >From</option>
+    	    <option value="to" <? if ($from=="to") echo 'selected="selected"' ?> >To</option>
         </select>
 /
 <label for="limit">Limit</label>
