@@ -1,5 +1,5 @@
 <?
-	include "../lib.php";
+	include "../lib/class.php";
 	
 	
 	$api=new Api;
