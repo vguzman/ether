@@ -86,7 +86,7 @@
 							$content['time']=$data[$i]->time;
 							$content['from']=$data[$i]->sender;
 							$content['to']=$data[$i]->recipient;
-							$content['amount']=strval($data[$i]->amount);
+							$content['amount']=(String)$data[$i]->amount;
 							$content['block_hash']=$data[$i]->blockHash;
 							$content['parent_hash']=$data[$i]->parentHash;
 							
