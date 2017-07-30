@@ -107,7 +107,7 @@
 			$horas=mysql_result($query_dif,0,0);
 			
 			
-			if ($horas>=6)
+			if ($horas>=12)
 				$api->loadAccount($address);
 		}
 		
