@@ -58,7 +58,7 @@
         <td width="100"><strong>Txs recv</strong></td>
       </tr>
       <?
-	$query=$util->operacionSQL("SELECT COUNT(*) as c,A.`from` FROM Transaction A GROUP BY A.`from` ORDER BY c DESC LIMIT ".$limit);
+	$query=$util->operacionSQL("SELECT COUNT(*) as c,A.`to` FROM Transaction A GROUP BY A.`to` ORDER BY c DESC LIMIT ".$limit);
 
 
 	for ($i=0;$i<mysql_num_rows($query);$i++)
